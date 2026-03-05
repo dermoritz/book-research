@@ -1,0 +1,5 @@
+.playwright
+.playwright-cli
+.claude/skills/playwright-cli
+downloads/*
+!downloads/.keep
