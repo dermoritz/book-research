@@ -6,10 +6,10 @@ AI-assisted search and download of books from shadow libraries (Anna's Archive, 
 
 1. Install [playwright-cli](https://github.com/microsoft/playwright-cli):
    ```bash
-   npm install -g @playwright/mcp
+   npm install -g @playwright/cli@latest
    ```
 
 2. Install the playwright-cli skill so Copilot knows how to use it:
    ```bash
-   playwright-cli install --skills https://github.com/microsoft/playwright-cli
+   playwright-cli install --skills
    ```
